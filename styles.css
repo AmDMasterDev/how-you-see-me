@@ -78,4 +78,9 @@ body {
   .shuffle-section::before {
     height: 100vw;
   }
+
+  html,
+  body {
+    align-items: start;
+  }
 }

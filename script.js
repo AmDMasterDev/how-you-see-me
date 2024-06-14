@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", () => {
           "--background-image",
           `url(${images[currentIndex]})`
         );
-      }, 200); // Adjust the speed of image shuffling here
+      }, 300); // Adjust the speed of image shuffling here
     });
 
     section.addEventListener("mouseleave", () => {
